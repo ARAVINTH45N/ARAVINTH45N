@@ -12,7 +12,7 @@
 🌍 Building amazing projects | 📚 Continuous Learner | 💡 Creative Thinker
 ```
 
-I'm a enthusiastic developer who loves creating elegant solutions to complex problems. I'm passionate about **clean code**, **open source**, and **collaborative development**. Always excited to learn new technologies and share knowledge with the community!
+I'm a enthusiastic developer who loves creating elegant solutions to complex problems. I'm passionate about **clean code**, **open source**, and **collaborative development**. Always excited to learn new technologies and collaborate with fellow developers!
 
 ---
 
@@ -98,10 +98,10 @@ I'm a enthusiastic developer who loves creating elegant solutions to complex pro
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravinth-n-005085290/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AravinthN18034)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://aravinthn.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravinth.vnagarajan@gmail.com)
 
 </div>
 
