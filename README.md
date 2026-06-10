@@ -1,6 +1,6 @@
 # <div align="center">
 # 👋 Hi there, I'm **ARAVINTH** 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning">
 # </div>
 
 ---
@@ -12,7 +12,7 @@
 🌍 Building amazing projects | 📚 Continuous Learner | 💡 Creative Thinker
 ```
 
-I'm a enthusiastic developer who loves creating elegant solutions to complex problems. I'm passionate about **clean code**, **open source**, and **collaborative development**. Always excited to learn new technologies and collaborate with fellow developers!
+I'm an enthusiastic developer who loves creating elegant solutions to complex problems. I'm passionate about **clean code**, **open source**, and **collaborative development**. Always excited to learn new technologies and collaborate on impactful projects.
 
 ---
 
@@ -27,6 +27,7 @@ I'm a enthusiastic developer who loves creating elegant solutions to complex pro
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -71,15 +72,17 @@ I'm a enthusiastic developer who loves creating elegant solutions to complex pro
 
 <div align="center">
 
-### [🔗 Project Name 1](#)
-> A brief description of your amazing project
-- ⭐ Key features
-- 🎯 Technologies used
+### [🔗 Cable-Pay-Hub](https://github.com/ARAVINTH45N/cable-pay-hub)
+> A comprehensive cable payment management system built with modern web technologies
+- 💳 Payment Processing & Management
+- 🎯 User-friendly Interface
+- 🛠️ Built with: React, Node.js, MySQL, AWS
 
-### [🔗 Project Name 2](#)
-> Another impressive project description
-- ✨ Highlights
-- 🛠️ Built with
+### [🔗 AI Portfolio](https://github.com/ARAVINTH45N/ai--portfolio)
+> An intelligent portfolio website showcasing projects and skills with modern design
+- ✨ AI-powered Recommendations
+- 📱 Fully Responsive Design
+- 🛠️ Built with: HTML, CSS, JavaScript, React
 
 </div>
 
