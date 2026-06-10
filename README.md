@@ -1,6 +1,6 @@
 # <div align="center">
 #
-# <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=4000&pause=1000&color=00FF88&background=0D1117&center=true&vCenter=true&width=1000&lines=⚡+ARAVINTH+N+⚡;Full+Stack+Developer+%7C+Hardware+Engineer;Innovation+at+Code+%26+Circuit+Level" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=40&duration=4000&pause=1000&color=00FF88&background=0D1117&center=true&vCenter=true&width=1000&lines=⚡+ARAVINTH+N+⚡;Full+Stack+Developer;Electronics+Engineer;FPGA+%26+PCB+Designer" alt="Typing SVG" />
 #
 # </div>
 
@@ -13,6 +13,8 @@
 [![Always Learning](https://img.shields.io/badge/Always-Learning-4169E1?style=for-the-badge)]()
 [![Hardware Expert](https://img.shields.io/badge/Hardware-Expert-FF00FF?style=for-the-badge&logo=raspberry-pi&logoColor=white)]()
 
+### 🎨 **[✨ VIEW MY LED PORTFOLIO SHOWCASE ✨](https://aravinth45n.github.io/ARAVINTH45N/)**
+
 </div>
 
 ---
@@ -24,31 +26,46 @@
 ### 🔴🟠🟡🟢🔵🟣🔴🟠🟡🟢🔵🟣
 
 ```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║  ⚡ ARAVINTH N - Full Stack Developer | Electronics Engineer | Innovator ║
-║                                                                            ║
-║  🎓 Education: Electronics & Communication Engineering                    ║
-║  💼 Experience: 5+ Years in Hardware & Software Development               ║
-║  🌍 Location: India | 🚀 Always Evolving & Learning                      ║
-║                                                                            ║
-║  🖥️  SOFTWARE EXPERTISE:                                                  ║
-║     Web Development | Mobile Apps | Backend Systems | Cloud Solutions    ║
-║                                                                            ║
-║  🔌 HARDWARE EXPERTISE:                                                   ║
-║     PCB Design | VLSI Circuits | FPGA | Microcontroller Programming    ║
-║                                                                            ║
-║  🚀 PHILOSOPHY:                                                            ║
-║     "Clean Code + Elegant Hardware = Perfect Integrated Solutions"       ║
-║                                                                            ║
-║  🌐 MISSION:                                                               ║
-║     Bridge the gap between digital innovation & physical electronics    ║
-║     Creating smart, scalable, and sustainable tech solutions             ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║  ⚡ ARAVINTH N - Full Stack Developer | Electronics Eng.     ║
+║                                                               ║
+║  🎓 Education: Electronics & Communication Engineering        ║
+║  💼 Experience: 5+ Years in Hardware & Software Development   ║
+║  🌍 Location: India | 🚀 Always Evolving & Learning          ║
+║                                                               ║
+║  🖥️  SOFTWARE EXPERTISE:                                      ║
+║     Web Development | Mobile Apps | Backend Systems | Cloud   ║
+║                                                               ║
+║  🔌 HARDWARE EXPERTISE:                                       ║
+║     PCB Design | VLSI Circuits | FPGA | Microcontrollers     ║
+║                                                               ║
+║  🚀 PHILOSOPHY:                                               ║
+║     "Clean Code + Elegant Hardware = Perfect Solutions"      ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 ### 🔴🟠🟡🟢🔵🟣🔴🟠🟡🟢🔵🟣
+
+</div>
+
+---
+
+## 🌐 **LED PORTFOLIO SHOWCASE** ✨
+
+<div align="center">
+
+### 📊 **INTERACTIVE PROJECT DASHBOARD**
+
+**[🎪 CLICK HERE TO VIEW FULL LED PORTFOLIO 🎪](https://aravinth45n.github.io/ARAVINTH45N/)**
+
+Features:
+- 🟢 **LED-Style Neon Glow Effects** - Professional terminal aesthetic
+- 🎯 **Interactive Project Cards** - Click to view each project on GitHub
+- 📱 **Fully Responsive Design** - Works on all devices
+- ⚡ **Real-time Statistics** - Project count and repository metrics
+- 🔗 **Direct Project Links** - One-click navigation to repositories
 
 </div>
 
@@ -118,7 +135,7 @@
 ║ ✅ FPGA (Xilinx Vivado)          ║
 ║ ✅ Verilog & VHDL                ║
 ║ ✅ Embedded C/C++                ║
-╚════��═════════════════════════════╝
+╚══════════════════════════════════╝
 ```
 
 </td>
@@ -227,88 +244,6 @@
 
 ---
 
-## 🏆 **SKILLS & COMPETENCIES - DETAILED BREAKDOWN**
-
-<div align="center">
-
-### **TIER 1 - EXPERT LEVEL** 🔥
-
-| Category | Skill Level | Details |
-|----------|:-----------:|---------|
-| 🖥️ Full Stack Web Dev | ⭐⭐⭐⭐⭐ | React, Node.js, Express, MongoDB, PostgreSQL |
-| 🔌 Hardware Design | ⭐⭐⭐⭐⭐ | PCB Design, VLSI, FPGA, Verilog, Cadence |
-| 📊 System Architecture | ⭐⭐⭐⭐⭐ | Microservices, Cloud, Database Design |
-| ⚙️ Embedded Systems | ⭐⭐⭐⭐⭐ | Arduino, FPGA, Microcontroller Programming |
-
-### **TIER 2 - ADVANCED LEVEL** 🚀
-
-| Category | Skill Level | Details |
-|----------|:-----------:|---------|
-| ☁️ Cloud Services | ⭐⭐⭐⭐ | AWS, Docker, Kubernetes, CI/CD |
-| 📡 RF & Antenna Design | ⭐⭐⭐⭐ | Microstrip Antenna, CST Studio, Signal Processing |
-| 🤖 Backend Systems | ⭐⭐⭐⭐ | APIs, Authentication, Optimization |
-| 📱 Mobile Development | ⭐⭐⭐⭐ | JavaScript frameworks, Responsive Design |
-
-### **TIER 3 - INTERMEDIATE LEVEL** 📚
-
-| Category | Skill Level | Details |
-|----------|:-----------:|---------|
-| 🎓 Machine Learning | ⭐⭐⭐ | TensorFlow, Data Analysis |
-| 🔐 Cybersecurity | ⭐⭐⭐ | Encryption, Network Security |
-| 🎮 Game Development | ⭐⭐⭐ | Unity, JavaScript Gaming |
-
-</div>
-
----
-
-## 🚀 **PROJECT PORTFOLIO - MAJOR HIGHLIGHTS**
-
-<div align="center">
-
-### 💳 **Cable-Pay-Hub** - Smart Payment Management System
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║ 💰 Real-time Payment Processing & Tracking               ║
-║ 📊 Advanced Analytics & Reporting Dashboard              ║
-║ 🔐 Secure Authentication & Encryption                    ║
-║ 🎯 Responsive UI/UX Design                               ║
-║ 🛠️ Tech: React | Node.js | Express | MySQL | AWS        ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
----
-
-### 🎨 **AI Portfolio** - Intelligent Portfolio Showcase
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║ 🤖 Smart Content Recommendations                         ║
-║ 📱 Mobile-first Responsive Design                        ║
-║ ⚡ Fast Performance & SEO Optimized                       ║
-║ 🎨 Modern UI with Smooth Animations                      ║
-║ 🛠️ Tech: React | HTML5 | CSS3 | JavaScript | TailwindCSS║
-╚═══════════════════════════════════════════════════════════╝
-```
-
----
-
-### 🔧 **Electronics & VLSI Projects** - Hardware Design Suite
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║ 🔌 PCB Circuit Design (Eagle, Altium)                    ║
-║ 📡 RF & Antenna Design (CST Studio)                      ║
-║ ⚙️ FPGA Implementation (Xilinx Vivado)                    ║
-║ 🛠️ Digital Circuit Simulation (Cadence)                  ║
-║ 📦 50+ Projects Across Hardware Domains                  ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 🌟 **CURRENT PROJECTS & RESEARCH** ✨
 
 <div align="center">
@@ -320,56 +255,7 @@
 | **Smart Home System** | Arduino-based home automation | 📊 Conceptual | Embedded |
 | **Payment Gateway API** | Secure transaction processing | ✅ Complete | Backend |
 | **ML Analytics Platform** | Data-driven insights engine | 🔄 In Progress | AI+Backend |
-| **Embedded Linux System** | Custom kernel optimization | 📚 Learning | Systems |
-
-</div>
-
----
-
-## 📚 **CONTINUOUS LEARNING & GROWTH AREAS**
-
-<div align="center">
-
-```
-🎓 LEARNING ROADMAP 2024-2025
-
-┌─────────────────────────────────────────────────────────┐
-│ 🤖 ARTIFICIAL INTELLIGENCE & ML                         │
-│    ├─ Machine Learning Algorithms                       │
-│    ├─ Deep Learning & Neural Networks                   │
-│    └─ NLP & Computer Vision                             │
-├─────────────────────────────────────────────────────────┤
-│ 📡 IoT & EMBEDDED SYSTEMS                               │
-│    ├─ Smart Device Development                          │
-│    ├─ Sensor Networks & Data Collection                 │
-│    └─ Edge Computing                                    │
-├─────────────────────────────────────────────────────────┤
-│ ☁️ CLOUD ARCHITECTURE & DevOps                          │
-│    ├─ Kubernetes & Orchestration                        │
-│    ├─ Serverless Computing                              │
-│    └─ Distributed Systems                               │
-├─────────────────────────────────────────────────────────┤
-│ 🔐 CYBERSECURITY & ENCRYPTION                           │
-│    ├─ Network Security & Protocols                      │
-│    ├─ Cryptography & Authentication                     │
-│    └─ Ethical Hacking & Penetration Testing             │
-├─────────────────────────────────────────────────────────┤
-│ 📱 MOBILE DEVELOPMENT                                   │
-│    ├─ React Native & Cross-platform                     │
-│    ├─ Native iOS/Android Development                    │
-│    └─ Mobile UX/UI Design                               │
-├─────────────────────────────────────────────────────────┤
-│ 🏗️ SYSTEM DESIGN & ARCHITECTURE                         │
-│    ├─ Scalable Architecture Patterns                    │
-│    ├─ Distributed System Design                         │
-│    └─ Performance Optimization                          │
-├─────────────────────────────────────────────────────────┤
-│ ⚙️ ADVANCED VLSI & SEMICONDUCTOR DESIGN                 │
-│    ├─ Circuit Optimization Techniques                   │
-│    ├─ Low-power Design Strategies                       │
-│    └─ Advanced EDA Tools & Methodologies                │
-└─────────────────────────────────────────────────────────┘
-```
+| **LED Portfolio Showcase** | Interactive neon-style portfolio | ✅ Complete | Web |
 
 </div>
 
@@ -385,8 +271,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARAVINTH45N&theme=radical&hide_border=true&background=0D1117)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ARAVINTH45N&theme=radical&bg_color=0D1117)
-
 </div>
 
 ---
@@ -395,11 +279,10 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/LED%20Portfolio-00FF88?style=for-the-badge&logo=github&logoColor=white)](https://aravinth45n.github.io/ARAVINTH45N/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravinth-n-005085290/)
-[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AravinthN18034)
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://aravinthn.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravinth.vnagarajan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARAVINTH45N)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravinth.vnagarajan@gmail.com)
 
 **💬 Open for:**
 - 💼 Freelance projects & consulting
@@ -432,22 +315,12 @@
 ════════════════════════════════════════════════════════════
 
  🤖 Machine Learning & AI implementation techniques
- ☁️ Advanced cloud architecture (AWS, Kubernetes, serverless)
+ ☁️ Advanced cloud architecture (AWS, Kubernetes)
  🔐 Cybersecurity, encryption & ethical hacking
  📱 Modern mobile development frameworks
  🏗️ Enterprise system design patterns
 
-════════════════════════════════════════════════════════════
-                      🤝 SEEKING 🤝
-════════════════════════════════════════════════════════════
-
- 🎯 Collaboration on cutting-edge technology projects
- 🔓 Meaningful open-source contribution opportunities
- 👨‍🏫 Expert mentorship in emerging tech domains
- 💼 Strategic partnerships & business opportunities
- 🌍 Impactful projects making real-world difference
-
-════════════════════════════════════════════════════════════
+══���═════════════════════════════════════════════════════════
 ```
 
 </div>
@@ -461,10 +334,11 @@
 - 🌟 **50+** Creative Projects Across Web, Hardware & Embedded Systems
 - 👥 **Active** Open-source Contributor with proven track record
 - 📈 **Consistent** High-quality Coding Activity & Continuous Learning
-- 🏅 **100+** Repositories showcasing diverse & advanced tech stack
+- 🏅 **100+** Repositories showcasing diverse tech stack
 - 💡 **Problem Solver** with focus on elegant, scalable solutions
 - 🎓 **Self-motivated** Learner mastering cutting-edge technologies
 - 🔧 **Full-stack Expert** seamlessly integrating software & hardware
+- ✨ **LED Portfolio** - Professional interactive showcase
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ARAVINTH45N.ARAVINTH45N&color=00FF88&label=Profile+Visitors)](https://github.com/ARAVINTH45N)
 
@@ -478,7 +352,7 @@
 
 ### *"Code is poetry written for machines, and read by humans"* 💭
 
-> *"The best solutions come from understanding both the problem and the platform. Every line of code, every circuit board, every system architecture tells a story of innovation, dedication, and relentless pursuit of excellence."*
+> *"The best solutions come from understanding both the problem and the platform."*
 
 ---
 
@@ -518,8 +392,6 @@
 ### 🔥 **Powered by Passion, Coffee ☕, and Code 💻**
 
 ## **Made with ❤️ by ARAVINTH N**
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+collaborate+and+innovate+together!;Happy+Coding!+🚀)
 
 </div>
 
