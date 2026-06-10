@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARAVINTH N - Digital Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Courier New', monospace;
+            background: linear-gradient(135deg, #0a0e27 0%, #1a1a3e 50%, #0f0f2e 100%);
+            color: #00ff41;
+            overflow-x: hidden;
+            line-height: 1.6;
+        }
+
+        /* LED Glow effect */
+        @keyframes ledGlow {
+            0%, 100% { text-shadow: 0 0 10px #00ff41, 0 0 20px #00ff41, 0 0 30px #00ff41; }
+            50% { text-shadow: 0 0 15px #00ff41, 0 0 25px #00ff41, 0 0 40px #00ff41; }
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+
+        @keyframes slideInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+        }
+
+        /* Header Styling */
+        header {
+            background: rgba(0, 20, 40, 0.8);
+            border-bottom: 3px solid #00ff41;
+            padding: 40px 20px;
+            text-align: center;
+            animation: slideInDown 0.8s ease-out;
+            box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);
+        }
+
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            margin-bottom: 10px;
+            animation: ledGlow 2s ease-in-out infinite;
+            letter-spacing: 3px;
+            color: #00ff41;
+        }
+
+        .subtitle {
+            font-size: 1.3rem;
+            color: #00aa00;
+            margin-bottom: 15px;
+            animation: pulse 3s ease-in-out infinite;
+        }
+
+        .divider {
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #00ff41, transparent);
+            margin: 20px 0;
+            box-shadow: 0 0 10px rgba(0, 255, 65, 0.5);
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            color: #00ff41;
+            font-weight: bold;
+            text-shadow: 0 0 10px #00ff41;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: #00aa00;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* Main Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        section {
+            margin-bottom: 50px;
+        }
+
+        .section-title {
+            font-size: 2rem;
+            color: #00ff41;
+            margin-bottom: 30px;
+            padding: 15px 20px;
+            border-left: 4px solid #00ff41;
+            background: rgba(0, 255, 65, 0.05);
+            animation: ledGlow 2.5s ease-in-out infinite;
+            text-shadow: 0 0 10px #00ff41;
+        }
+
+        /* Projects Grid */
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            animation: slideInUp 0.8s ease-out;
+        }
+
+        .project-card {
+            background: linear-gradient(135deg, rgba(0, 40, 80, 0.6), rgba(0, 20, 60, 0.6));
+            border: 2px solid #00ff41;
+            padding: 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 0 15px rgba(0, 255, 65, 0.2);
+            position: relative;
+            overflow: hidden;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        .project-card:nth-child(2) {
+            animation-delay: 0.1s;
+        }
+
+        .project-card:nth-child(3) {
+            animation-delay: 0.2s;
+        }
+
+        .project-card:nth-child(n+4) {
+            animation-delay: 0.3s;
+        }
+
+        .project-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(0, 255, 65, 0.1), transparent);
+            transition: left 0.5s ease;
+        }
+
+        .project-card:hover::before {
+            left: 100%;
+        }
+
+        .project-card:hover {
+            transform: translateY(-10px) scale(1.02);
+            border-color: #00ffff;
+            box-shadow: 0 0 30px rgba(0, 255, 65, 0.5), inset 0 0 20px rgba(0, 255, 65, 0.1);
+            background: linear-gradient(135deg, rgba(0, 60, 120, 0.8), rgba(0, 30, 90, 0.8));
+        }
+
+        .project-name {
+            font-size: 1.2rem;
+            color: #00ff41;
+            margin-bottom: 10px;
+            font-weight: bold;
+            text-shadow: 0 0 5px #00ff41;
+        }
+
+        .project-description {
+            font-size: 0.9rem;
+            color: #00aa00;
+            margin-bottom: 15px;
+            line-height: 1.5;
+        }
+
+        .project-meta {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.85rem;
+            color: #00aa00;
+            margin-bottom: 15px;
+            padding-top: 10px;
+            border-top: 1px solid rgba(0, 255, 65, 0.2);
+        }
+
+        .project-link {
+            display: inline-block;
+            background: linear-gradient(135deg, #00ff41, #00aa00);
+            color: #001100;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 3px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            text-align: center;
+            cursor: pointer;
+            box-shadow: 0 0 10px rgba(0, 255, 65, 0.4);
+        }
+
+        .project-link:hover {
+            background: linear-gradient(135deg, #00ffff, #00ff41);
+            box-shadow: 0 0 20px rgba(0, 255, 255, 0.6);
+            transform: scale(1.05);
+        }
+
+        /* Footer */
+        footer {
+            background: rgba(0, 20, 40, 0.8);
+            border-top: 3px solid #00ff41;
+            padding: 30px 20px;
+            text-align: center;
+            margin-top: 50px;
+            box-shadow: 0 0 20px rgba(0, 255, 65, 0.3);
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            color: #00aa00;
+        }
+
+        .footer-text {
+            margin-bottom: 15px;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+
+        .social-link {
+            color: #00ff41;
+            text-decoration: none;
+            padding: 8px 15px;
+            border: 1px solid #00ff41;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+        }
+
+        .social-link:hover {
+            background: #00ff41;
+            color: #001100;
+            box-shadow: 0 0 15px rgba(0, 255, 65, 0.6);
+        }
+
+        /* Loading animation */
+        .loading {
+            animation: pulse 1.5s ease-in-out infinite;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .subtitle {
+                font-size: 1rem;
+            }
+
+            .projects-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .stats {
+                gap: 20px;
+            }
+
+            .stat-number {
+                font-size: 1.5rem;
+            }
+
+            header {
+                padding: 25px 15px;
+            }
+
+            .container {
+                padding: 25px 15px;
+            }
+        }
+
+        /* Scroll animation */
+        .fade-in {
+            animation: slideInUp 0.6s ease-out;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>⚡ ARAVINTH N</h1>
+            <p class="subtitle">Digital Portfolio & Project Showcase</p>
+            <div class="divider"></div>
+            <div class="stats">
+                <div class="stat-item">
+                    <div class="stat-number" id="projectCount">0</div>
+                    <div class="stat-label">Projects</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">100+</div>
+                    <div class="stat-label">Repositories</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">ACTIVE</div>
+                    <div class="stat-label">Status</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2 class="section-title">📦 Featured Projects</h2>
+            <div class="projects-grid" id="projectsContainer">
+                <!-- Projects will be loaded here -->
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <p class="footer-text">🌐 GitHub Profile: <a href="https://github.com/ARAVINTH45N" style="color: #00ffff; text-decoration: none;">ARAVINTH45N</a></p>
+            <p class="footer-text">💻 Building innovative solutions in Electronics, FPGA, PCB Design & Web Development</p>
+            <div class="divider"></div>
+            <div class="social-links">
+                <a href="https://github.com/ARAVINTH45N" class="social-link">GitHub</a>
+                <a href="https://github.com/ARAVINTH45N" class="social-link">Portfolio</a>
+            </div>
+            <p class="footer-text" style="margin-top: 20px; font-size: 0.85rem;">© 2025 ARAVINTH N | LED-Style Digital Portfolio</p>
+        </div>
+    </footer>
+
+    <script>
+        // Project data
+        const projects = [
+            {
+                name: "AcadSmart",
+                description: "Advanced academic management system with automated publication fetching and analytics",
+                stars: 0,
+                forks: 0,
+                url: "https://github.com/ARAVINTH45N/AcadSmart"
+            },
+            {
+                name: "ARAVINTH-N",
+                description: "TypeScript-based portfolio and project management",
+                stars: 1,
+                forks: 0,
+                url: "https://github.com/ARAVINTH45N/ARAVINTH-N"
+            },
+            {
+                name: "7-Segment FPGA Implementation",
+                description: "7-Segment display implementation in Spartan7 FPGA",
+                stars: 0,
+                forks: 0,
+                url: "https://github.com/ARAVINTH45N/7-Segment-in-Spartan7-FPGA-implementation"
+            },
+            {
+                name: "4-bit Ripple Counter",
+                description: "4-bit Ripple counter and 4-bit Ripple Adder using Verilog",
+                stars: 0,
+                forks: 0,
+                url: "https://github.com/ARAVINTH45N/4-bit-Ripple-counter-using-Function-and-4-bit-Ripple-Adder-using-task"
+            },
+            {
+                name: "Multiplexer Simulation",
+                description: "4:1 Multiplexer design using gate-level, data flow, behavioral & structural models",
+                stars: 0,
+                forks: 0,
+                url: "https://github.com/ARAVINTH45N/Multiplexer-Simulation-in-Vivado"
+            },
+            {
+                name: "Booth Multiplier",
+                description: "Booth Multiplier design and simulation using Verilog and Cadence",
+                stars: 0,
+                forks: 0,
+                url: "https://github.com/ARAVINTH45N/Design-and-Simulation-of-a-Booth-Multiplier-Using-Verilog-and-Cadence-nclaunch"
+            },
+            {
+                name: "CMOS Inverter Design",
+                description: "CMOS Inverter design and implementation using Cadence EDA Tools",
+                stars: 0,
+                forks: 0,
+                url: "https://github.com/ARAVINTH45N/EXP1-Design-Implementation-of-CMOS-Inverter-Design-using-Cadence-EDA-Tool"
+            },
+            {
+                name: "6T SRAM Cell",
+                description: "6T SRAM Cell design and implementation using Cadence EDA Tools",
+                stars: 0,
+                forks: 0,
+                url: "https://github.com/ARAVINTH45N/Design-Implementation-of-6T---SRAM-Cell-using-Cadence-EDA-Tools"
+            },
+            {
+                name: "Crowdflow App",
+                description: "TypeScript-based crowd management and analysis application",
+                stars: 0,
+                forks: 0,
+                url: "https://github.com/ARAVINTH45N/Crowdflowapp"
+            },
+            {
+                name: "Prompt Engineering",
+                description: "AI prompt engineering techniques and evaluation across multiple platforms",
+                stars: 0,
+                forks: 0,
+                url: "https://github.com/ARAVINTH45N/PROMPT-ENGINEERING"
+            },
+            {
+                name: "Automatic Light Control",
+                description: "Arduino-based automatic light control system",
+                stars: 0,
+                forks: 0,
+                url: "https://github.com/ARAVINTH45N/Automatic-Light-control-using-Arduino-Controller"
+            },
+            {
+                name: "PCB Circuit Designs",
+                description: "Multiple PCB designs using Eagle and Altium software with Gerber files",
+                stars: 0,
+                forks: 0,
+                url: "https://github.com/ARAVINTH45N/Design-an-Automatic-street-light-PCB-circuit-using-Eagle-software-and-generate-the-Gerber-file."
+            }
+        ];
+
+        // Function to render projects
+        function renderProjects() {
+            const container = document.getElementById('projectsContainer');
+            container.innerHTML = '';
+
+            projects.forEach((project, index) => {
+                const card = document.createElement('div');
+                card.className = 'project-card fade-in';
+                card.style.animationDelay = `${index * 0.05}s`;
+
+                card.innerHTML = `
+                    <div class="project-name">${project.name}</div>
+                    <div class="project-description">${project.description}</div>
+                    <div class="project-meta">
+                        <span>⭐ Stars: ${project.stars}</span>
+                        <span>🔀 Forks: ${project.forks}</span>
+                    </div>
+                    <a href="${project.url}" target="_blank" rel="noopener noreferrer" class="project-link">
+                        → View Project
+                    </a>
+                `;
+
+                container.appendChild(card);
+            });
+
+            // Update project count
+            document.getElementById('projectCount').textContent = projects.length;
+        }
+
+        // Render projects on page load
+        window.addEventListener('DOMContentLoaded', () => {
+            renderProjects();
+        });
+
+        // Smooth scroll behavior
+        document.addEventListener('click', (e) => {
+            if (e.target.tagName === 'A' && e.target.href.startsWith('#')) {
+                e.preventDefault();
+                const section = document.querySelector(e.target.href);
+                if (section) {
+                    section.scrollIntoView({ behavior: 'smooth' });
+                }
+            }
+        });
+    </script>
+</body>
+</html>
