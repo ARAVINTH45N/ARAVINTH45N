@@ -1,6 +1,46 @@
-# 🚀 ARAVINTH N
+# ✨ ARAVINTH N ✨
 
 <div align="center">
+
+<style>
+  @keyframes glitter {
+    0%, 100% { 
+      text-shadow: 
+        0 0 10px #FFD700,
+        0 0 20px #FFA500,
+        0 0 30px #FF69B4,
+        0 0 40px #00BFFF;
+      opacity: 1;
+    }
+    50% {
+      text-shadow: 
+        0 0 20px #FFD700,
+        0 0 30px #FFA500,
+        0 0 40px #FF69B4,
+        0 0 50px #00BFFF,
+        0 0 60px #00FF00;
+      opacity: 0.8;
+    }
+  }
+  
+  @keyframes sparkle {
+    0%, 100% { opacity: 0.4; }
+    50% { opacity: 1; }
+  }
+  
+  .glitter-text {
+    animation: glitter 2s ease-in-out infinite;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+  
+  .sparkle {
+    display: inline-block;
+    animation: sparkle 1.5s ease-in-out infinite;
+  }
+</style>
+
+# 🚀 <span class="glitter-text">ARAVINTH N</span> 🚀
 
 **AI Engineer | Product Builder | Full-Stack Developer | IoT & Embedded Systems**
 
@@ -22,9 +62,9 @@
 
 ## 🎯 About Me
 
-I'm an **AI Engineer, Product Visionary, and Full-Stack Developer** with a passion for building intelligent, scalable systems. Currently pursuing **B.E. in Electronics & Communication Engineering** at **Saveetha Engineering College**, I combine deep technical expertise in **AI/ML, Cloud Computing, and IoT** with product thinking and startup mentality.
+I'm an **AI Engineer, Product Visionary, and Full-Stack Developer** with a passion for building intelligent, scalable systems. Currently pursuing **B.E. in Electronics & Communication Engineering**.
 
-As the **Founder of ZELABRIA**, I'm building a unified platform for student collaboration, learning, and career development. My published research on academic impact estimation demonstrates my commitment to solving real-world problems through technology.
+As the **Founder of ZELABRIA**, I'm building a unified platform for student collaboration, learning, and career development. My published research on academic impact estimation demonstrates my commitment to innovation and excellence.
 
 **What drives me:**
 - 🤖 Creating intelligent agents and AI-powered solutions
@@ -109,14 +149,14 @@ Learning_Path:
 
 ## 📊 Expertise Matrix
 
-| Domain | Proficiency | Experience | Key Focus |
-|--------|:----------:|:----------:|-----------|
-| **AI & Machine Learning** | ⭐⭐⭐⭐⭐ | 2+ Years | Generative AI, Agentic Systems, Data Analytics |
-| **Full-Stack Development** | ⭐⭐⭐⭐⭐ | 3+ Years | MERN, REST APIs, Scalable Architecture |
-| **Cloud & DevOps** | ⭐⭐⭐⭐ | 2+ Years | AWS, Docker, Infrastructure Design |
-| **IoT & Embedded Systems** | ⭐⭐⭐⭐⭐ | 3+ Years | Real-time Systems, Sensor Networks, PCB Design |
-| **Product Engineering** | ⭐⭐⭐⭐ | 2+ Years | Design Thinking, User-Centric, Scalable Products |
-| **Research & Analytics** | ⭐⭐⭐⭐⭐ | 2+ Years | Academic Research, Impact Estimation, Data Science |
+| Domain | Proficiency | Key Focus |
+|--------|:----------:|-----------|
+| **AI & Machine Learning** | ⭐⭐⭐⭐⭐ | Generative AI, Agentic Systems, Data Analytics |
+| **Full-Stack Development** | ⭐⭐⭐⭐⭐ | MERN, REST APIs, Scalable Architecture |
+| **Cloud & DevOps** | ⭐⭐⭐⭐ | AWS, Docker, Infrastructure Design |
+| **IoT & Embedded Systems** | ⭐⭐⭐⭐⭐ | Real-time Systems, Sensor Networks, PCB Design |
+| **Product Engineering** | ⭐⭐⭐⭐ | Design Thinking, User-Centric, Scalable Products |
+| **Research & Analytics** | ⭐⭐⭐⭐⭐ | Academic Research, Impact Estimation, Data Science |
 
 ---
 
@@ -126,7 +166,7 @@ Learning_Path:
 **Status:** 🚀 In Development | **Type:** Startup Vision
 
 **Vision:**
-A comprehensive platform transforming how students collaborate, learn, and build their careers. Integrating networking, project collaboration, community building, and career development into one seamless ecosystem.
+A comprehensive platform transforming how students collaborate, learn, and build their careers. Integrating networking, project collaboration, community building, and career development into one ecosystem.
 
 **Core Features:**
 - 🤝 **Collaboration Hub** — Real-time project collaboration tools
@@ -461,7 +501,7 @@ My approach:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARAVINTH45N&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D&text_color=E6EDF3&title_color=6C5CE7&icon_color=6C5CE7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARAVINTH45N&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D&text_color=E6EDF3&title_color=6C5CE7)
 
 </div>
 
@@ -624,6 +664,6 @@ I'm passionate about:
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Creating+Scalable+Products;Innovating+for+Impact;Let's+Build+Together)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Creating+Scalable+Products;Researching+Innovation;Empowering+Communities)
 
 </div>
