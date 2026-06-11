@@ -1,58 +1,21 @@
-# ✨ ARAVINTH N ✨
-
 <div align="center">
 
-<style>
-  @keyframes glitter {
-    0%, 100% { 
-      text-shadow: 
-        0 0 10px #FFD700,
-        0 0 20px #FFA500,
-        0 0 30px #FF69B4,
-        0 0 40px #00BFFF;
-      opacity: 1;
-    }
-    50% {
-      text-shadow: 
-        0 0 20px #FFD700,
-        0 0 30px #FFA500,
-        0 0 40px #FF69B4,
-        0 0 50px #00BFFF,
-        0 0 60px #00FF00;
-      opacity: 0.8;
-    }
-  }
-  
-  @keyframes sparkle {
-    0%, 100% { opacity: 0.4; }
-    50% { opacity: 1; }
-  }
-  
-  .glitter-text {
-    animation: glitter 2s ease-in-out infinite;
-    font-weight: bold;
-    letter-spacing: 2px;
-  }
-  
-  .sparkle {
-    display: inline-block;
-    animation: sparkle 1.5s ease-in-out infinite;
-  }
-</style>
+# ✨ ARAVINTH N ✨
 
-# 🚀 <span class="glitter-text">ARAVINTH N</span> 🚀
-
-**AI Engineer | Product Builder | Full-Stack Developer | IoT & Embedded Systems**
+### 🚀 AI Engineer | Product Builder | Full-Stack Developer | IoT & Embedded Systems
 
 *Building intelligent systems that scale • Founding ZELABRIA • Researching Academic Impact Estimation*
 
-[🌐 Portfolio](https://aravinth45n.github.io/ARAVINTH45N/) • [💼 LinkedIn](https://www.linkedin.com/in/aravinth-n-005085290/) • [📧 Email](mailto:aravinth.vnagarajan@gmail.com) • [🚀 GitHub](https://github.com/ARAVINTH45N)
-
-</div>
-
 ---
 
-<div align="center">
+### 🔗 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-6C5CE7?style=for-the-badge&logoColor=white)](https://aravinth45n.github.io/ARAVINTH45N/)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/aravinth-n-005085290/)
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logoColor=white)](https://github.com/ARAVINTH45N)
+[![Email](https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logoColor=white)](mailto:aravinth.vnagarajan@gmail.com)
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ARAVINTH45N&color=6C5CE7&style=flat-square)
 
@@ -62,7 +25,7 @@
 
 ## 🎯 About Me
 
-I'm an **AI Engineer, Product Visionary, and Full-Stack Developer** with a passion for building intelligent, scalable systems. Currently pursuing **B.E. in Electronics & Communication Engineering**.
+I'm an **AI Engineer, Product Visionary, and Full-Stack Developer** with a passion for building intelligent, scalable systems. Currently pursuing **B.E. in Electronics & Communication Engineering** at Saveetha Engineering College, Tamil Nadu, India.
 
 As the **Founder of ZELABRIA**, I'm building a unified platform for student collaboration, learning, and career development. My published research on academic impact estimation demonstrates my commitment to innovation and excellence.
 
@@ -110,40 +73,40 @@ Learning_Path:
 
 ### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00D9FF?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0078D4?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-00D9FF?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-0078D4?style=for-the-badge)
 
 ### 💻 Full-Stack Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🗄️ Databases & Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔌 IoT & Embedded Systems
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-0066CC?style=for-the-badge)
-![Embedded%20Systems](https://img.shields.io/badge/Embedded%20Systems-8B0000?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Electronics](https://img.shields.io/badge/Electronics-FF6B35?style=for-the-badge)
 
 ### 🛠️ Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -151,12 +114,12 @@ Learning_Path:
 
 | Domain | Proficiency | Key Focus |
 |--------|:----------:|-----------|
-| **AI & Machine Learning** | ⭐⭐⭐⭐⭐ | Generative AI, Agentic Systems, Data Analytics |
+| **AI & Machine Learning** | ⭐⭐⭐⭐⭐ | Generative AI, Agentic Systems, LLMs |
 | **Full-Stack Development** | ⭐⭐⭐⭐⭐ | MERN, REST APIs, Scalable Architecture |
-| **Cloud & DevOps** | ⭐⭐⭐⭐ | AWS, Docker, Infrastructure Design |
-| **IoT & Embedded Systems** | ⭐⭐⭐⭐⭐ | Real-time Systems, Sensor Networks, PCB Design |
-| **Product Engineering** | ⭐⭐⭐⭐ | Design Thinking, User-Centric, Scalable Products |
-| **Research & Analytics** | ⭐⭐⭐⭐⭐ | Academic Research, Impact Estimation, Data Science |
+| **Cloud & DevOps** | ⭐⭐⭐⭐ | AWS, Docker, Kubernetes, Infrastructure |
+| **IoT & Embedded Systems** | ⭐⭐⭐⭐⭐ | Real-time Systems, Sensor Networks, PCB |
+| **Product Engineering** | ⭐⭐⭐⭐ | Design Thinking, User-Centric, Scalable |
+| **Research & Analytics** | ⭐⭐⭐⭐⭐ | Academic Research, Data Science |
 
 ---
 
@@ -166,7 +129,7 @@ Learning_Path:
 **Status:** 🚀 In Development | **Type:** Startup Vision
 
 **Vision:**
-A comprehensive platform transforming how students collaborate, learn, and build their careers. Integrating networking, project collaboration, community building, and career development into one ecosystem.
+A comprehensive platform transforming how students collaborate, learn, and build their careers. Integrating networking, project collaboration, community building, and career development into one seamless ecosystem.
 
 **Core Features:**
 - 🤝 **Collaboration Hub** — Real-time project collaboration tools
@@ -177,203 +140,58 @@ A comprehensive platform transforming how students collaborate, learn, and build
 - 🏆 **Achievement System** — Badges, certifications, leaderboards
 
 **Tech Stack Vision:**
-- **Frontend:** React, TypeScript, Redux
-- **Backend:** Node.js, Express, GraphQL
-- **Database:** MongoDB, Redis
-- **Cloud:** AWS, Docker, Kubernetes
-- **AI Integration:** Recommendation engine, skill matching
-
-**Business Value:**
-- Solves student fragmentation across multiple platforms
-- Creates community-driven learning ecosystem
-- Bridges gap between academics and industry
-- Monetization: Premium features, enterprise partnerships
+MERN Stack + GraphQL + Redis + AWS + Kubernetes + AI Recommendation Engine
 
 **Current Stage:** MVP Development
 
 ---
 
 ### 🌍 **Ecopulse** — Smart Sustainable City Platform
-**Status:** ✅ Completed | **Type:** Hackathon Project (24-hour) | **Impact:** SDG Goal 11
+**Status:** ✅ Completed | **Type:** 24-Hour Hackathon | **Impact:** SDG Goal 11
 
-**Overview:**
-Real-time environmental monitoring and analytics platform for sustainable urban development, built during a 24-hour hackathon competition.
-
-**Technical Architecture:**
-```
-┌─────────────────────────────────────┐
-│   Frontend (Dashboard)               │
-│   • Real-time visualization          │
-│   • Google Maps integration          │
-│   • Environmental analytics          │
-└────────────┬────────────────────────┘
-             │
-┌────────────▼────────────────────────┐
-│   Backend API (Express.js)           │
-│   • REST endpoints                   │
-│   • Real-time WebSocket             │
-│   • Data processing pipeline         │
-└────────────┬────────────────────────┘
-             │
-┌────────────▼────────────────────────┐
-│   Database (MongoDB)                 │
-│   • Location data                    │
-│   • Environmental metrics            │
-│   • Historical analytics             │
-└─────────────────────────────────────┘
-```
+Real-time environmental monitoring platform for sustainable urban development built during a hackathon competition.
 
 **Key Features:**
-- 📍 Real-time location monitoring with Google Maps API
+- 📍 Real-time location monitoring with Google Maps
 - 🌡️ Environmental data collection (air quality, temperature, humidity)
 - 📊 Interactive analytics dashboard
 - 🎯 SDG Goal 11 aligned metrics
 - 📈 Predictive analytics for urban planning
-- ⚡ Scalable, deployment-ready architecture
 
-**Technical Challenges Solved:**
-- Handling real-time data streams from multiple sensors
-- Optimizing Google Maps API calls
-- Efficient MongoDB schema design for time-series data
-- WebSocket implementation for live updates
-
-**Impact & Metrics:**
-- ✅ Hackathon Completion: 24-hour delivery
-- ✅ Full-stack implementation from scratch
-- ✅ Production-ready code quality
-- ✅ Environmental sustainability focus
-
-**Future Roadmap:**
-- IoT sensor integration
-- Mobile app (React Native)
-- Machine learning predictions
-- City administration dashboard
-- Multi-city deployment
+**Tech Stack:** React | Express.js | MongoDB | Google Maps API | WebSockets
 
 ---
 
 ### 💰 **Offline Billing Software** — Enterprise Supermarket Solution
 **Status:** ✅ Completed | **Type:** Enterprise Product
 
-**Overview:**
-Comprehensive, production-grade billing and inventory management system designed for retail supermarkets with offline functionality and professional UI.
-
-**Technical Architecture:**
-```
-Desktop Application
-├── Frontend UI (PyQt5)
-├── Business Logic Layer
-├── Database Layer (SQLite/MySQL)
-└── File I/O (PDF, CSV, Excel)
-```
+Production-grade billing and inventory management system for retail supermarkets with offline functionality.
 
 **Core Features:**
-- 💳 **Billing Management**
-  - Invoice generation with itemized details
-  - Multiple payment methods
-  - Transaction history
-  - PDF bill generation
-  
-- 👥 **Customer Management**
-  - Customer profiles
-  - Purchase history
-  - Loyalty tracking
-  - Discount management
-  
-- 📦 **Inventory Management**
-  - Product database
-  - Stock tracking
-  - Low-stock alerts
-  - Barcode scanner integration
-  
-- 🔐 **Administrative Features**
-  - Multi-user authentication
-  - Role-based access control
-  - Audit logging
-  - CSV/Excel export capabilities
+- 💳 Invoice generation with itemized details
+- 👥 Customer profile management & loyalty tracking
+- 📦 Inventory management with low-stock alerts
+- 🔐 Multi-user authentication & role-based access
+- 📊 CSV/Excel export & PDF bill generation
 
-**Technical Stack:**
-- **Language:** Python
-- **Frontend:** PyQt5 (Professional Desktop UI)
-- **Database:** SQL (MySQL/SQLite)
-- **Export:** PDF, Excel, CSV
+**Tech Stack:** Python | PyQt5 | SQL | PDF/Excel Export
 
-**Key Technical Achievements:**
-- ✅ Desktop UI with professional styling
-- ✅ Barcode scanner support
-- ✅ PDF generation with billing details
-- ✅ Multi-user authentication
-- ✅ Offline-first architecture
-- ✅ Portable deployment
-
-**Business Value:**
-- Reduces billing time by 80%
-- Minimizes inventory errors
-- Improves customer service
-- Scalable for multiple store locations
-- Cost-effective alternative to expensive POS systems
-
-**Scalability Considerations:**
-- Multi-store support with centralized database
-- Cloud sync for data backup
-- Mobile app extension
-- Integration with accounting software
-
-**Future Roadmap:**
-- Mobile app (iOS/Android)
-- Cloud integration
-- Advanced analytics dashboard
-- Supply chain integration
-- AI-powered demand forecasting
+**Business Value:** Reduces billing time by 80%, minimizes inventory errors, cost-effective POS alternative
 
 ---
 
 ### 📊 **Research Impact Estimation Platform**
 **Status:** 🔄 Active Research | **Type:** Published Research Application
 
-**Publication:**
 📜 *"Harnessing Scholarly Metrics to Research Impact Estimation in Academic Institutions"*
 - **Type:** Scopus Indexed Research Paper
 - **Focus:** Quantifying and predicting research impact in academia
 
 **Platform Features:**
-- 📈 **Research Analytics**
-  - Citation analysis
-  - Publication metrics
-  - Author impact scores
-  - Institutional research evaluation
-  
-- 🎯 **Impact Estimation Engine**
-  - Predictive modeling
-  - Trend analysis
-  - Future impact forecasting
-  
-- 🏫 **Institutional Insights**
-  - Department-level analytics
-  - Research collaboration mapping
-  - Funding effectiveness analysis
-  
-- 📊 **Visualization Dashboard**
-  - Interactive charts and graphs
-  - Time-series analysis
-  - Comparative metrics
-
-**Technical Implementation:**
-- **Data Sources:** Academic databases, publication APIs
-- **Analytics Engine:** Python, Data Science libraries
-- **Visualization:** Web dashboard
-- **Machine Learning:** Prediction models
-
-**Research Impact:**
-- Contributes to academic excellence measurement
-- Enables evidence-based research funding decisions
-- Supports institutional strategic planning
-- Advances scholarly metrics research
-
-**Future Extensions:**
-- Real-time research monitoring
-- Global research collaboration tracking
-- AI-powered research recommendation system
+- 📈 Citation analysis & publication metrics
+- 🎯 Impact estimation engine with predictive modeling
+- 🏫 Institutional analytics & research collaboration mapping
+- 📊 Interactive visualization dashboard
 
 ---
 
@@ -383,54 +201,34 @@ Desktop Application
 **Organization:** DRESTEIN | **Level:** National-Level Technical Event
 
 **Responsibilities:**
-- 🎯 **Event Operations Management**
-  - Strategic planning and execution
-  - Timeline and milestone management
-  - Resource allocation and optimization
-  
-- 👥 **Team Coordination**
-  - Led cross-functional teams
-  - Volunteer management and training
-  - Inter-team communication
-
-- 🔧 **Technical Planning**
-  - Event infrastructure design
-  - Technical logistics
-  - Problem-solving and contingency planning
-  
-- 📊 **Execution & Performance**
-  - Real-time monitoring
-  - Quality assurance
-  - Post-event analytics
+- 🎯 Strategic planning and event execution
+- 👥 Led cross-functional teams (100+ volunteers)
+- 🔧 Technical infrastructure design and logistics
+- 📊 Real-time monitoring and post-event analytics
 
 **Impact:**
 - ✅ Successfully executed national-level technical event
-- ✅ Coordinated 100+ volunteers
-- ✅ Managed technical infrastructure
+- ✅ Managed technical infrastructure at scale
+- ✅ Demonstrated leadership excellence
 - ✅ Delivered exceptional participant experience
-- ✅ Demonstrated leadership at scale
 
 ---
 
 ## 🎖️ Certifications & Credentials
 
-<div align="center">
-
 | Certification | Issuer | Status |
 |:-------------:|:------:|:------:|
 | 🏅 **AWS Cloud Practitioner** | Amazon Web Services | ✅ Completed |
 | 🏅 **Databases for Developers: Foundations** | Oracle | ✅ Completed |
-| 🏅 **Internet of Things (NPTEL)** | National Programme on Technology Enhanced Learning | ✅ Completed |
+| 🏅 **Internet of Things (NPTEL)** | NPTEL | ✅ Completed |
 | 🏅 **What is IoT** | Great Learning | ✅ Completed |
 | 📚 **B.E. Electronics & Communication** | Saveetha Engineering College | 🎓 In Progress |
-
-</div>
 
 ---
 
 ## 📚 Publications & Research
 
-### 📜 Scopus Indexed Paper
+### 📜 Scopus Indexed Publication
 
 **Title:** *"Harnessing Scholarly Metrics to Research Impact Estimation in Academic Institutions"*
 
@@ -453,32 +251,26 @@ Desktop Application
 Q1_2026:
   - Complete ZELABRIA MVP
   - Publish 2nd research paper on AI impact
-  - Achieve AWS Solutions Architect Certification
+  - AWS Solutions Architect Certification
   - Launch open-source AI project
 
 Q2_2026:
   - Scale ZELABRIA to 1000+ users
-  - Build AI agent framework
+  - Build advanced AI agent framework
   - 500+ GitHub contributions
-  - Speaking engagement at tech conference
+  - Tech conference speaking engagement
 
 Q3_2026:
   - ZELABRIA Series A preparation
   - Advanced Kubernetes mastery
   - Launch startup incubation program
-  - 10+ open-source contributions
+  - 10+ significant open-source contributions
 
 Q4_2026:
   - ZELABRIA platform expansion
   - AI/ML research collaboration
   - Community leadership initiatives
-  - Tech thought leadership (articles, talks)
-
-Long_Term_Vision:
-  - Build ZELABRIA into market leader
-  - Advance AI research and applications
-  - Mentor next generation of founders
-  - Global impact in EdTech + AI
+  - Tech thought leadership & articles
 ```
 
 ---
@@ -501,7 +293,7 @@ My approach:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARAVINTH45N&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D&text_color=E6EDF3&title_color=6C5CE7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARAVINTH45N&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
 
@@ -511,7 +303,7 @@ My approach:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARAVINTH45N&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=6C5CE7&fire=FF6B35&currStreakNum=E6EDF3&sideNums=E6EDF3)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARAVINTH45N&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -521,7 +313,7 @@ My approach:
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARAVINTH45N&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&border_color=30363D&text_color=E6EDF3&title_color=6C5CE7)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARAVINTH45N&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -531,48 +323,23 @@ My approach:
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ARAVINTH45N&theme=darkhub&no-frame=true&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ARAVINTH45N&theme=tokyonight&no-frame=true&column=7)
 
 </div>
 
 ---
 
-## 🔗 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARAVINTH45N&theme=github-dark-dimmed&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARAVINTH45N&theme=tokyo-night&hide_border=true)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/ARAVINTH45N/ARAVINTH45N/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Live%20Portfolio-6C5CE7?style=for-the-badge&logoColor=white)](https://aravinth45n.github.io/ARAVINTH45N/)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/aravinth-n-005085290/)
-[![GitHub](https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logoColor=white)](https://github.com/ARAVINTH45N)
-[![Email](https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logoColor=white)](mailto:aravinth.vnagarajan@gmail.com)
-
-</div>
-
----
-
-## 🤝 I'm Open To
-
-<div align="center">
+## 🌐 Open To Opportunities
 
 | Opportunity | Details |
 |:-----------:|---------|
@@ -582,9 +349,6 @@ My approach:
 | 🔓 **Open Source** | Contributing to AI/ML, IoT, and cloud projects |
 | 👨‍🏫 **Mentorship** | Teaching, knowledge sharing, community leadership |
 | 🎓 **Research** | Academic collaboration, research innovation |
-| 🤖 **AI Projects** | Building intelligent systems, agentic AI, LLM applications |
-
-</div>
 
 ---
 
@@ -613,25 +377,25 @@ Technical_Metrics:
     ├─ Contributions: 500+
     ├─ Repositories: 25+
     ├─ Projects: 30+
-    └─ Followers: Growing
+    └─ Followers: Growing Community
   
   Code_Quality:
-    ├─ Languages: 7+ (Python, JavaScript, Java, C, SQL, etc.)
+    ├─ Languages: 7+ (Python, JavaScript, Java, C, SQL, Go)
     ├─ Full_Stack_Proficiency: ⭐⭐⭐⭐⭐
     ├─ AI_ML_Expertise: ⭐⭐⭐⭐⭐
     └─ Leadership_Experience: ⭐⭐⭐⭐
 
   Achievement_Highlights:
-    ├─ Research Paper Published: Scopus Indexed
-    ├─ Startup Founded: ZELABRIA
-    ├─ Hackathon Success: Ecopulse (24-hour delivery)
-    ├─ Leadership Role: Head of Operations
-    └─ Certifications: 4 Industry Credentials
+    ├─ Research Paper Published: Scopus Indexed ✅
+    ├─ Startup Founded: ZELABRIA 🚀
+    ├─ Hackathon Success: Ecopulse (24h delivery) 🏆
+    ├─ Leadership Role: Head of Operations 👥
+    └─ Certifications: 4 Industry Credentials 🎖️
 ```
 
 ---
 
-## 📞 Let's Build Together
+## 🔗 Let's Connect & Build
 
 I'm passionate about:
 - 🤖 Creating intelligent, scalable AI systems
@@ -646,10 +410,6 @@ I'm passionate about:
 
 <div align="center">
 
-**"The best way to predict the future is to build it."**
-
----
-
 ### 🚀 Building Tomorrow's Solutions Today
 
 **Made with ❤️ by Aravinth N**
@@ -663,7 +423,5 @@ I'm passionate about:
 🔀 **Feel free to fork, contribute, and collaborate!**
 
 ---
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Creating+Scalable+Products;Researching+Innovation;Empowering+Communities)
 
 </div>
